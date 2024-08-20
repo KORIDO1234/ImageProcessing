@@ -130,7 +130,8 @@
 
 
    일반
-   ![image](https://github.com/user-attachments/assets/e85898eb-c6b5-47aa-a50e-544b34446994)
+   ![image](https://github.com/user-attachments/assets/1a339c8a-5c3b-4d20-a47d-2bb166d03bdd)
+
 
 
 
