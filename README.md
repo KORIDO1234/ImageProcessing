@@ -53,7 +53,8 @@
 
 
    입력값
-   ![image](https://github.com/user-attachments/assets/3990feed-f1c7-451f-a9f1-d64f9269291c)
+   ![image](https://github.com/user-attachments/assets/ebc81be3-a7a9-4885-ae23-3caacad0cea6)
+
 
    평균값
    ![image](https://github.com/user-attachments/assets/40f27b8e-8a98-4da2-b285-5e5e438c8fea)
